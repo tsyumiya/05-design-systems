@@ -7,7 +7,7 @@ export default {
 
   args: {
     src: "https://github.com/yaskadju.png",
-    alt: "TY"
+    alt: "TYU"
   },
   argTypes: {
     size: {
